@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I´m Merly <3 
+<img src=https://img.freepik.com/vector-gratis/banner-espacio-paisaje-planeta-purpura_107791-6230.jpg width="1000" height="250" >
 
 <!--
 **MerlyBriz/MerlyBriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
