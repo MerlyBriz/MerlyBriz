@@ -1,4 +1,4 @@
-## Hi, I´m Merly <3 
+## Hi, I´m Merly
 <img src=https://img.freepik.com/vector-gratis/banner-espacio-paisaje-planeta-purpura_107791-6230.jpg width="1000" height="250" >
 
 <!--
